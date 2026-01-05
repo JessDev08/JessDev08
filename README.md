@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Jéssica Noronha
+## 👩‍💻 Jéssica Noronha
 
 **`Software Developer`**
 
