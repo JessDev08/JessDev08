@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Profissional em transição para a área de tecnologia, com experiência em processos de negócio e atuação próxima a sistemas e dados. Possuo base em Java, Spring Boot e SQL, além de perfil analítico, boa comunicação e foco em evolução contínua.
+Profissional em transição para a área de tecnologia, com experiência em processos de negócio e atuação próxima a sistemas e dados. Possuo base em Java, Spring Boot e SQL, além de conhecimentos básicos em JavaScript, HTML e CSS, perfil analítico, boa comunicação e foco em evolução contínua.
 
 <p align="left">
    <div> 
